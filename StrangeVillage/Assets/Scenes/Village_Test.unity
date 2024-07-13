@@ -916,6 +916,16 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 652777024205678630, guid: 0ec517b898f56f24c9cb3c9186aad970,
+        type: 3}
+      propertyPath: PlayerBasicSettings.RunSpeed
+      value: 10
+      objectReference: {fileID: 0}
+    - target: {fileID: 652777024205678630, guid: 0ec517b898f56f24c9cb3c9186aad970,
+        type: 3}
+      propertyPath: PlayerBasicSettings.WalkSpeed
+      value: 6
+      objectReference: {fileID: 0}
     - target: {fileID: 1607594062965140599, guid: 0ec517b898f56f24c9cb3c9186aad970,
         type: 3}
       propertyPath: MainCamera
