@@ -20,9 +20,12 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/ThunderWire Studio/UHFPS/_Demo/Scenes/Raining.unity
     guid: 5d02e5420369bbe42bc168890153f297
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Village_Test.unity
     guid: 7df22fd5d250a67489b3316e607cb956
+  - enabled: 1
+    path: Assets/Scenes/Village.unity
+    guid: 2e9085dfa1739704c80743d3561018ca
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: ae838b1c970aab641bb8e4643590df24,
       type: 2}
