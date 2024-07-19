@@ -310,12 +310,12 @@ MonoBehaviour:
     - title: Title
       value: Quest Conversation 1
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Description
       value: The NPC is a quest giver in a video game. The NPC offers the player
         a quest. This conversation relates to the quest.
       type: 0
-      typeString: 
+      typeString: CustomFieldType_Text
     - title: Actor
       value: 1
       type: 5
