@@ -1440,8 +1440,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Hello, [var=Actor]. The Fog has corrupted the settup of ouer generator
-          can you go to the FAcility and fixe it?
+        value: 'Hello, [var=Traveler]. We need you to go and complete fixing the
+          Electric Generator. This system is crucial for giving us time to prepare
+          and seek shelter. It''s  located on the hill near the church. '
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1460,6 +1461,12 @@ MonoBehaviour:
         originDialogueID: 1
         destinationConversationID: 4
         destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      - originConversationID: 4
+        originDialogueID: 1
+        destinationConversationID: 4
+        destinationDialogueID: 11
         isConnector: 0
         priority: 2
       conditionsString: CurrentQuestState("Genarator") == "unassigned"
@@ -1496,7 +1503,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: 
+        value: Did you fix the Generator yet?
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1557,7 +1564,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: If you forgot the code here it is 1234
+        value: Maybe thanks to your assist we will mange to survive...
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1612,7 +1619,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Shoure I will take care of it
+        value: I will take care of it!
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1713,7 +1720,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: I finished the task
+        value: I managed to reapir the Generator.
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1768,7 +1775,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Thanks for helping herese the code 1234
+        value: Thanks for helping!
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1896,6 +1903,123 @@ MonoBehaviour:
         serializedVersion: 2
         x: 912
         y: 184
+        width: 160
+        height: 30
+    - id: 11
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: Can you tell me more abut the system?
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 11
+        destinationConversationID: 4
+        destinationDialogueID: 12
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 263.85614
+        y: 229.32373
+        width: 160
+        height: 30
+    - id: 12
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Description
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Dialogue Text
+        value: The light system in Gloombay was created after extensive trials conducted
+          by Dr. Crowley, who experimented with samples left behind by the fog. After
+          numerous attempts, he discovered that light of a specific wavelength can
+          disperse the segments of the fog responsible for generating portals. Dr.
+          Crowley, together with a mechanic, developed a prototype and began installing
+          the system at key locations around the island. However, they were unable
+          to activate it before the mechanic fell ill and could no longer complete
+          the repairs.
+        type: 0
+        typeString: CustomFieldType_Text
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: CustomFieldType_Text
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 12
+        destinationConversationID: 4
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 193.35255
+        y: 346.23022
         width: 160
         height: 30
     entryGroups: []
@@ -2496,7 +2620,7 @@ MonoBehaviour:
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1
+    canvasZoom: 0.97
   syncInfo:
     syncActors: 0
     syncItems: 0
