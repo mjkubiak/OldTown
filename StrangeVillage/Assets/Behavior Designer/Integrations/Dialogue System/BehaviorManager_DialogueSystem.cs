@@ -2,6 +2,7 @@ using UnityEngine;
 using BehaviorDesigner.Runtime.Tasks;
 using BehaviorDesigner.Runtime.Tasks.DialugeSystem;
 using PixelCrushers.DialogueSystem;
+using StrangeVillage.Tasks;
 
 namespace BehaviorDesigner.Runtime
 {
@@ -19,6 +20,9 @@ namespace BehaviorDesigner.Runtime
             } else if (task is StartSequence) {
                 var startSequenceTask = task as StartSequence;
                 startSequenceTask.SequenceComplete(status);
+            } else if (task is IsOwnConversationActive ownConversationActiveTask)
+            {
+                ownConversationActiveTask.ConversationComplete(status);
             }
         }
 
