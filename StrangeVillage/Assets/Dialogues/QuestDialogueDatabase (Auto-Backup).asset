@@ -1281,7 +1281,7 @@ MonoBehaviour:
         value: None()
         type: 0
         typeString: 
-      conversationID: 0
+      conversationID: 3
       isRoot: 0
       isGroup: 0
       nodeColor: 
@@ -1471,7 +1471,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 184
-        y: 134
+        y: 133.28058
         width: 160
         height: 30
     - id: 2
