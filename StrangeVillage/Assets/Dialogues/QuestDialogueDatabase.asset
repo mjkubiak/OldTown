@@ -1440,9 +1440,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: 'Hello, [var=Traveler]. We need you to go and complete fixing the
-          Electric Generator. This system is crucial for giving us time to prepare
-          and seek shelter. It''s  located on the hill near the church. '
+        value: 'Hello Traveler. We need you to go and complete fixing the Electric
+          Generator. This system is crucial for giving us time to prepare and seek
+          shelter. It''s  located on the hill near the church. '
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1928,7 +1928,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Can you tell me more abut the system?
+        value: Can you tell me more about the system?
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
