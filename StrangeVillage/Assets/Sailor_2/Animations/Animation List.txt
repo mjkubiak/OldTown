@@ -1,0 +1,16 @@
+Sailor Afro Animations keyframe
+
+
+Idle 0-60
+Idle other 61-191
+walk 192-232
+run 233-263 
+jump 264-314
+Idle Attack 315-355
+attack1 356-394
+attack2 395-435
+attack3 436-476
+attack4 477-517
+get hit 518-543 
+dead 544-604
+

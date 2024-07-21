@@ -1,0 +1,1049 @@
+fileFormatVersion: 2
+guid: c2442660194746f4faa21a6e87816ab9
+timeCreated: 1457438396
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: surv_Bip01
+    100002: surv_Bip01_Head1
+    100004: surv_Bip01_L_Calf
+    100006: surv_Bip01_L_Clavicle
+    100008: surv_Bip01_L_Finger0
+    100010: surv_Bip01_L_Finger01
+    100012: surv_Bip01_L_Finger02
+    100014: surv_Bip01_L_Finger1
+    100016: surv_Bip01_L_Finger11
+    100018: surv_Bip01_L_Finger12
+    100020: surv_Bip01_L_Finger2
+    100022: surv_Bip01_L_Finger21
+    100024: surv_Bip01_L_Finger22
+    100026: surv_Bip01_L_Finger3
+    100028: surv_Bip01_L_Finger31
+    100030: surv_Bip01_L_Finger32
+    100032: surv_Bip01_L_Finger4
+    100034: surv_Bip01_L_Finger41
+    100036: surv_Bip01_L_Finger42
+    100038: surv_Bip01_L_Foot
+    100040: surv_Bip01_L_Forearm
+    100042: surv_Bip01_L_Hand
+    100044: surv_Bip01_L_Thigh
+    100046: surv_Bip01_L_Toe0
+    100048: surv_Bip01_L_UpperArm
+    100050: surv_Bip01_Neck1
+    100052: surv_Bip01_Pelvis
+    100054: surv_Bip01_R_Calf
+    100056: surv_Bip01_R_Clavicle
+    100058: surv_Bip01_R_Finger0
+    100060: surv_Bip01_R_Finger01
+    100062: surv_Bip01_R_Finger02
+    100064: surv_Bip01_R_Finger1
+    100066: surv_Bip01_R_Finger11
+    100068: surv_Bip01_R_Finger12
+    100070: surv_Bip01_R_Finger2
+    100072: surv_Bip01_R_Finger21
+    100074: surv_Bip01_R_Finger22
+    100076: surv_Bip01_R_Finger3
+    100078: surv_Bip01_R_Finger31
+    100080: surv_Bip01_R_Finger32
+    100082: surv_Bip01_R_Finger4
+    100084: surv_Bip01_R_Finger41
+    100086: surv_Bip01_R_Finger42
+    100088: surv_Bip01_R_Foot
+    100090: surv_Bip01_R_Forearm
+    100092: surv_Bip01_R_Hand
+    100094: surv_Bip01_R_Thigh
+    100096: surv_Bip01_R_Toe0
+    100098: surv_Bip01_R_UpperArm
+    100100: surv_Bip01_Spine
+    100102: surv_Bip01_Spine1
+    100104: surv_Bip01_Spine2
+    100106: surv_Bip01_Spine4
+    100108: surv_body
+    100110: surv_body 1
+    100112: surv_head
+    100114: surv_head 1
+    100116: surv_LIndexeffector
+    100118: surv_LMiddleeffector
+    100120: surv_LPinkyeffector
+    100122: surv_LRingeffector
+    100124: surv_LThumbeffector
+    100126: surv_LToeeff
+    100128: surv_RIndexeffector
+    100130: surv_RMiddleeffector
+    100132: surv_RPinkyeffector
+    100134: surv_RRingeffector
+    100136: surv_RThumbeffector
+    100138: surv_RToeeff
+    100140: surv_Shotgun
+    100142: surv_Shotgun 1
+    100144: surv_surv
+    100146: surv_U3DRoot
+    100148: //RootNode
+    100150: U3DRoot
+    400000: surv_Bip01
+    400002: surv_Bip01_Head1
+    400004: surv_Bip01_L_Calf
+    400006: surv_Bip01_L_Clavicle
+    400008: surv_Bip01_L_Finger0
+    400010: surv_Bip01_L_Finger01
+    400012: surv_Bip01_L_Finger02
+    400014: surv_Bip01_L_Finger1
+    400016: surv_Bip01_L_Finger11
+    400018: surv_Bip01_L_Finger12
+    400020: surv_Bip01_L_Finger2
+    400022: surv_Bip01_L_Finger21
+    400024: surv_Bip01_L_Finger22
+    400026: surv_Bip01_L_Finger3
+    400028: surv_Bip01_L_Finger31
+    400030: surv_Bip01_L_Finger32
+    400032: surv_Bip01_L_Finger4
+    400034: surv_Bip01_L_Finger41
+    400036: surv_Bip01_L_Finger42
+    400038: surv_Bip01_L_Foot
+    400040: surv_Bip01_L_Forearm
+    400042: surv_Bip01_L_Hand
+    400044: surv_Bip01_L_Thigh
+    400046: surv_Bip01_L_Toe0
+    400048: surv_Bip01_L_UpperArm
+    400050: surv_Bip01_Neck1
+    400052: surv_Bip01_Pelvis
+    400054: surv_Bip01_R_Calf
+    400056: surv_Bip01_R_Clavicle
+    400058: surv_Bip01_R_Finger0
+    400060: surv_Bip01_R_Finger01
+    400062: surv_Bip01_R_Finger02
+    400064: surv_Bip01_R_Finger1
+    400066: surv_Bip01_R_Finger11
+    400068: surv_Bip01_R_Finger12
+    400070: surv_Bip01_R_Finger2
+    400072: surv_Bip01_R_Finger21
+    400074: surv_Bip01_R_Finger22
+    400076: surv_Bip01_R_Finger3
+    400078: surv_Bip01_R_Finger31
+    400080: surv_Bip01_R_Finger32
+    400082: surv_Bip01_R_Finger4
+    400084: surv_Bip01_R_Finger41
+    400086: surv_Bip01_R_Finger42
+    400088: surv_Bip01_R_Foot
+    400090: surv_Bip01_R_Forearm
+    400092: surv_Bip01_R_Hand
+    400094: surv_Bip01_R_Thigh
+    400096: surv_Bip01_R_Toe0
+    400098: surv_Bip01_R_UpperArm
+    400100: surv_Bip01_Spine
+    400102: surv_Bip01_Spine1
+    400104: surv_Bip01_Spine2
+    400106: surv_Bip01_Spine4
+    400108: surv_body
+    400110: surv_body 1
+    400112: surv_head
+    400114: surv_head 1
+    400116: surv_LIndexeffector
+    400118: surv_LMiddleeffector
+    400120: surv_LPinkyeffector
+    400122: surv_LRingeffector
+    400124: surv_LThumbeffector
+    400126: surv_LToeeff
+    400128: surv_RIndexeffector
+    400130: surv_RMiddleeffector
+    400132: surv_RPinkyeffector
+    400134: surv_RRingeffector
+    400136: surv_RThumbeffector
+    400138: surv_RToeeff
+    400140: surv_Shotgun
+    400142: surv_Shotgun 1
+    400144: surv_surv
+    400146: surv_U3DRoot
+    400148: //RootNode
+    400150: U3DRoot
+    4300000: surv_Shotgun
+    4300002: surv_body
+    4300004: surv_head
+    7400000: Take_001
+    7400002: Default0
+    7400004: Walk
+    7400006: Strafe_Right
+    7400008: Strafe_Left
+    7400010: Talk
+    7400012: Sit
+    7400014: Idle_Rifle
+    7400016: Down
+    7400018: Run
+    7400020: Idle
+    7400022: Walk_Rifle
+    7400024: Crawl
+    7400026: Run_Rifle
+    7400028: Looking_Around
+    7400030: Death
+    7400032: Standup
+    7400034: Jump
+    7400036: Check
+    7400038: Crouch
+    7400040: Sleep
+    7400042: Shot_Rifle
+    7400044: Walk_Rifle_Shoot
+    7400046: Crouch_Rifle_Shoot
+    7400048: Walk_Aim
+    9500000: //RootNode
+    13700000: surv_body
+    13700002: surv_head
+    13700004: surv_Shotgun
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 2.5
+    meshCompression: 0
+    addColliders: 1
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human:
+    - boneName: surv_Bip01
+      humanName: Hips
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Thigh
+      humanName: LeftUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Thigh
+      humanName: RightUpperLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Calf
+      humanName: LeftLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Calf
+      humanName: RightLowerLeg
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Foot
+      humanName: LeftFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Foot
+      humanName: RightFoot
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_Spine
+      humanName: Spine
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_Spine2
+      humanName: Chest
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_Neck1
+      humanName: Neck
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_Head1
+      humanName: Head
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Clavicle
+      humanName: LeftShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Clavicle
+      humanName: RightShoulder
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_UpperArm
+      humanName: LeftUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_UpperArm
+      humanName: RightUpperArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Forearm
+      humanName: LeftLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Forearm
+      humanName: RightLowerArm
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Hand
+      humanName: LeftHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Hand
+      humanName: RightHand
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Toe0
+      humanName: LeftToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Toe0
+      humanName: RightToes
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger0
+      humanName: Left Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger01
+      humanName: Left Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger02
+      humanName: Left Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger1
+      humanName: Left Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger11
+      humanName: Left Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger12
+      humanName: Left Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger2
+      humanName: Left Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger21
+      humanName: Left Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger22
+      humanName: Left Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger3
+      humanName: Left Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger31
+      humanName: Left Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger32
+      humanName: Left Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger4
+      humanName: Left Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger41
+      humanName: Left Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_L_Finger42
+      humanName: Left Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger0
+      humanName: Right Thumb Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger01
+      humanName: Right Thumb Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger02
+      humanName: Right Thumb Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger4
+      humanName: Right Index Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger41
+      humanName: Right Index Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger42
+      humanName: Right Index Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger3
+      humanName: Right Middle Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger31
+      humanName: Right Middle Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger32
+      humanName: Right Middle Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger2
+      humanName: Right Ring Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger21
+      humanName: Right Ring Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger22
+      humanName: Right Ring Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger1
+      humanName: Right Little Proximal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger11
+      humanName: Right Little Intermediate
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    - boneName: surv_Bip01_R_Finger12
+      humanName: Right Little Distal
+      limit:
+        min: {x: 0, y: 0, z: 0}
+        max: {x: 0, y: 0, z: 0}
+        value: {x: 0, y: 0, z: 0}
+        length: 0
+        modified: 0
+    skeleton:
+    - name: survivor2 mecanim(Clone)
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: U3DRoot
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_body
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_head
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Shotgun
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_surv
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_U3DRoot
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_body 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_head 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Shotgun 1
+      position: {x: 0, y: 0, z: 0}
+      rotation: {x: 0, y: 0, z: 0, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01
+      position: {x: 1.11022296e-17, y: 0.9641728, z: 0.013340244}
+      rotation: {x: -4.3368087e-19, y: 1.3877788e-17, z: -8.6736174e-19, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_Pelvis
+      position: {x: -4.4408918e-17, y: 0, z: 0}
+      rotation: {x: -1.8604909e-16, y: -8.660607e-16, z: 3.3697004e-16, w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Thigh
+      position: {x: -0.09726117, y: 0, z: 0}
+      rotation: {x: -0.50484043, y: -0.49511257, z: 0.46850267, w: 0.52962726}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Calf
+      position: {x: -0.44741443, y: -0.000000002980232, z: 0}
+      rotation: {x: -1.08964365e-10, y: 0.0000000017288942, z: -0.017346734, w: 0.99984956}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Foot
+      position: {x: -0.4140671, y: -0.000000011920928, z: 0}
+      rotation: {x: -0.09271842, y: -0.00028400612, z: 0.431605, w: 0.897285}
+      scale: {x: 0.9999999, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_L_Toe0
+      position: {x: -0.13864113, y: -0.000000005960464, z: 0.000000011920928}
+      rotation: {x: 0.03177184, y: 0.075133406, z: 0.36347508, w: 0.92802554}
+      scale: {x: 0.99999994, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: surv_LToeeff
+      position: {x: -0.0980349, y: -0.000000001117587, z: -0.000000023841856}
+      rotation: {x: -0.0000000025383275, y: -0.0000000030988658, z: 2.0395627e-10,
+        w: 1}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Thigh
+      position: {x: 0.09726117, y: 0, z: 0}
+      rotation: {x: 0.47101027, y: 0.52739865, z: -0.50248766, w: -0.49749988}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Calf
+      position: {x: -0.4469516, y: 0.000000005960464, z: 0}
+      rotation: {x: 8.7905454e-11, y: 6.9958615e-11, z: -0.017387813, w: 0.99984884}
+      scale: {x: 0.9999998, y: 0.99999994, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Foot
+      position: {x: -0.41399205, y: 0, z: -0.000000023841856}
+      rotation: {x: 0.14522885, y: -0.021906184, z: 0.43331835, w: 0.8891928}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: surv_Bip01_R_Toe0
+      position: {x: -0.14044358, y: -0.000000005960464, z: 0}
+      rotation: {x: -0.02995219, y: 0.0045004077, z: 0.36258775, w: 0.93145734}
+      scale: {x: 0.99999976, y: 1, z: 1.0000002}
+      transformModified: 1
+    - name: surv_RToeeff
+      position: {x: -0.10020251, y: 7.45058e-10, z: 0.000000011920928}
+      rotation: {x: -0.0000000022603288, y: 0.0000000043136525, z: 1.0403646e-10,
+        w: 1}
+      scale: {x: 0.99999994, y: 0.9999999, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_Spine
+      position: {x: 1.0946104e-15, y: 0.08362827, z: -0.074547455}
+      rotation: {x: 0.50283515, y: -0.49714893, z: -0.5028351, w: 0.49714848}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_Spine1
+      position: {x: -0.099556915, y: 0.000000011920928, z: -2.2737366e-14}
+      rotation: {x: 1.0251669e-13, y: 2.0455942e-14, z: 0.10202103, w: 0.99478227}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_Spine2
+      position: {x: -0.115680784, y: 0.000000023841856, z: -6.82121e-14}
+      rotation: {x: -1.06221435e-13, y: -1.1901223e-14, z: -0.04802611, w: 0.9988461}
+      scale: {x: 1.0000002, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_Spine4
+      position: {x: -0.1978651, y: -0.000000017881392, z: -1.1368683e-13}
+      rotation: {x: -2.7164631e-14, y: -1.0874756e-14, z: -0.2215517, w: 0.9751487}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_Neck1
+      position: {x: -0.11607436, y: -0.000000047683713, z: -4.5474732e-14}
+      rotation: {x: 0.9975567, y: -0.06986182, z: -0.00000016391272, w: 0.0000010728833}
+      scale: {x: 0.99999994, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_Head1
+      position: {x: -0.070164196, y: -0.000000095367426, z: -1.8189893e-13}
+      rotation: {x: 0.0000001257075, y: 0.0000004873339, z: -0.24977383, w: 0.9683042}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Clavicle
+      position: {x: -0.06144752, y: 0.03258929, z: 0.04844153}
+      rotation: {x: -0.46592537, y: 0.5032279, z: 0.6037121, w: 0.40645656}
+      scale: {x: 1, y: 0.9999999, z: 0.9999997}
+      transformModified: 1
+    - name: surv_Bip01_L_UpperArm
+      position: {x: -0.14180319, y: -0.013371753, z: 0.0010020732}
+      rotation: {x: -0.76295185, y: 0.08303187, z: -0.019867823, w: 0.6407929}
+      scale: {x: 0.9999999, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_L_Forearm
+      position: {x: -0.25905016, y: 0.000000005960464, z: 0.009566116}
+      rotation: {x: -0.008206365, y: -0.01383323, z: 0.03507549, w: 0.9992553}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_L_Hand
+      position: {x: -0.26605055, y: -0.00093799824, z: 0.032024954}
+      rotation: {x: 0.7169775, y: -0.027717259, z: -0.024107695, w: 0.6961278}
+      scale: {x: 0.99999994, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger0
+      position: {x: -0.038407132, y: -0.02168827, z: 0.03246273}
+      rotation: {x: -0.6814258, y: 0.20233522, z: 0.3025771, w: 0.634954}
+      scale: {x: 1.0000001, y: 1.0000002, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger01
+      position: {x: -0.04077878, y: 0.000000095367426, z: 0}
+      rotation: {x: -0.004742829, y: -0.01950606, z: -0.03310698, w: 0.99925023}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger02
+      position: {x: -0.03450446, y: 0.000000023841856, z: 0}
+      rotation: {x: -0.0010868638, y: 0.006626527, z: 0.033566043, w: 0.99941397}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1.0000002}
+      transformModified: 1
+    - name: surv_LThumbeffector
+      position: {x: -0.029407786, y: 0.000000047683713, z: 0.000000047683713}
+      rotation: {x: 0.000000004702142, y: -1.5245998e-10, z: 0.0000000058638783, w: 1}
+      scale: {x: 0.9999999, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger1
+      position: {x: -0.10476674, y: 0.00021667479, z: 0.031443886}
+      rotation: {x: 0.16770367, y: 0.01836596, z: 0.07409585, w: 0.9828774}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger11
+      position: {x: -0.042201087, y: 0, z: -0.000000023841856}
+      rotation: {x: -0.017061707, y: 0.01305668, z: 0.03012702, w: 0.9993152}
+      scale: {x: 0.9999999, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger12
+      position: {x: -0.026038168, y: 0.000000095367426, z: -0.000000040233132}
+      rotation: {x: -0.001230439, y: -0.0021930067, z: 0.041131806, w: 0.99915063}
+      scale: {x: 1, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: surv_LIndexeffector
+      position: {x: -0.027658079, y: -0.000000047683713, z: 0.000000008940696}
+      rotation: {x: -6.728507e-10, y: -0.00000000234813, z: -9.487637e-10, w: 1}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger2
+      position: {x: -0.1031681, y: 0.0004966736, z: 0.0048857746}
+      rotation: {x: 0.05377182, y: -0.00874186, z: 0.067075774, w: 0.99625957}
+      scale: {x: 1, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger21
+      position: {x: -0.046454903, y: -0.000000047683713, z: -0.000000011920928}
+      rotation: {x: -0.0121345045, y: 0.009692478, z: 0.031766053, w: 0.9993747}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger22
+      position: {x: -0.031151006, y: -0.000000047683713, z: 0.000000005960464}
+      rotation: {x: 0.0010925946, y: -0.004359597, z: -0.01876728, w: 0.9998138}
+      scale: {x: 1, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: surv_LMiddleeffector
+      position: {x: -0.027646635, y: 0, z: 0.000000013411045}
+      rotation: {x: 0.0000000027250466, y: -3.9191408e-10, z: 3.8878845e-11, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger3
+      position: {x: -0.094237514, y: -0.0058222767, z: -0.016771263}
+      rotation: {x: -0.031145789, y: -0.025251817, z: 0.052372668, w: 0.99782234}
+      scale: {x: 1, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger31
+      position: {x: -0.04220209, y: 0.000000095367426, z: -0.000000035762785}
+      rotation: {x: -0.0009288752, y: 0.014508282, z: 0.038319223, w: 0.9991599}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger32
+      position: {x: -0.022624968, y: -0.00000014305114, z: 0}
+      rotation: {x: -0.028950933, y: -0.006889175, z: 0.03559159, w: 0.9989233}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: surv_LRingeffector
+      position: {x: -0.027675055, y: 0, z: -0.000000011920928}
+      rotation: {x: 3.2075587e-10, y: 0.0000000022858482, z: -0.0000000025828615,
+        w: 1}
+      scale: {x: 1, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger4
+      position: {x: -0.08590059, y: -0.015845774, z: -0.04054194}
+      rotation: {x: -0.15400352, y: -0.034023464, z: 0.045182727, w: 0.9864502}
+      scale: {x: 1.0000001, y: 0.9999999, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger41
+      position: {x: -0.030371808, y: 0.000000047683713, z: -0.0000000067055224}
+      rotation: {x: 0.0019145042, y: -0.0045576505, z: 0.037057377, w: 0.9993009}
+      scale: {x: 0.9999999, y: 1, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_L_Finger42
+      position: {x: -0.019415474, y: -0.000000047683713, z: 0.000000005960464}
+      rotation: {x: -0.013046733, y: -0.009220782, z: 0.03920788, w: 0.9991034}
+      scale: {x: 1, y: 0.9999999, z: 1}
+      transformModified: 1
+    - name: surv_LPinkyeffector
+      position: {x: -0.02372427, y: 0.00000007152557, z: 0.000000008940696}
+      rotation: {x: 0.000000004223895, y: 0.0000000013967592, z: -0.0000000019957007,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Clavicle
+      position: {x: -0.06144752, y: 0.03258929, z: -0.04844152}
+      rotation: {x: 0.4503164, y: -0.52517545, z: 0.5857051, w: 0.42232162}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999998}
+      transformModified: 1
+    - name: surv_Bip01_R_UpperArm
+      position: {x: -0.14181153, y: -0.012930965, z: -0.0019166946}
+      rotation: {x: 0.7865614, y: -0.079578936, z: -0.018506434, w: 0.61208314}
+      scale: {x: 1, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_R_Forearm
+      position: {x: -0.25905016, y: 0, z: -0.012840556}
+      rotation: {x: 0.00898948, y: 0.012494125, z: 0.035847403, w: 0.9992387}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Hand
+      position: {x: -0.26604736, y: -0.0007525444, z: -0.034337327}
+      rotation: {x: -0.7144015, y: 0.027631734, z: -0.02420671, w: 0.69877106}
+      scale: {x: 1, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger0
+      position: {x: -0.038406704, y: -0.021927927, z: -0.032301627}
+      rotation: {x: 0.6787806, y: -0.20037363, z: 0.30489257, w: 0.63729733}
+      scale: {x: 1.0000001, y: 1.0000002, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger01
+      position: {x: -0.040778827, y: 0, z: 0.000000047683713}
+      rotation: {x: 0.0007818934, y: 0.0077950023, z: -0.0396565, w: 0.9991827}
+      scale: {x: 1.0000001, y: 1.0000001, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger02
+      position: {x: -0.03450446, y: 0, z: 0.000000047683713}
+      rotation: {x: 0.00025153154, y: -0.00037735692, z: 0.03589142, w: 0.9993557}
+      scale: {x: 1, y: 0.9999998, z: 1}
+      transformModified: 1
+    - name: surv_RThumbeffector
+      position: {x: -0.029407786, y: 0, z: 0}
+      rotation: {x: -0.000000010846813, y: -0.0000000017605136, z: -0.0000000080255,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger1
+      position: {x: -0.08590006, y: -0.015545844, z: 0.040657848}
+      rotation: {x: -0.22780703, y: 0.01594664, z: 0.0528594, w: 0.97213966}
+      scale: {x: 1.0000002, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger11
+      position: {x: -0.030371854, y: 0.000000095367426, z: 0}
+      rotation: {x: 0.007528823, y: -0.027755758, z: 0.02518377, w: 0.99926907}
+      scale: {x: 1.0000001, y: 0.99999994, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger12
+      position: {x: -0.019415474, y: 0.000000023841856, z: 0}
+      rotation: {x: -0.0006641305, y: 0.028981278, z: 0.022900006, w: 0.9993174}
+      scale: {x: 0.99999994, y: 1.0000001, z: 1.0000001}
+      transformModified: 1
+    - name: surv_RIndexeffector
+      position: {x: -0.02372446, y: -0.000000023841856, z: 0}
+      rotation: {x: -0.0000000104562945, y: 0.0000000023313713, z: 6.74342e-10, w: 1}
+      scale: {x: 0.99999994, y: 0.99999994, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger2
+      position: {x: -0.09421729, y: -0.0060297963, z: 0.017628722}
+      rotation: {x: -0.07594406, y: 0.027631039, z: 0.049250633, w: 0.9955117}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger21
+      position: {x: -0.04183073, y: 0.000000047683713, z: 0}
+      rotation: {x: 0.004681861, y: -0.015213741, z: 0.0348006, w: 0.9992676}
+      scale: {x: 0.99999994, y: 0.9999998, z: 0.9999999}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger22
+      position: {x: -0.022620676, y: -0.000000047683713, z: 0}
+      rotation: {x: 0.010795889, y: -0.0010852646, z: 0.037993204, w: 0.9992192}
+      scale: {x: 1, y: 1.0000001, z: 1.0000002}
+      transformModified: 1
+    - name: surv_RMiddleeffector
+      position: {x: -0.027663324, y: -0.000000023841856, z: 0.000000011920928}
+      rotation: {x: 4.5924087e-10, y: 4.388978e-11, z: -0.000000002722619, w: 1}
+      scale: {x: 0.99999994, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger3
+      position: {x: -0.103167385, y: 0.00046062467, z: -0.0048893387}
+      rotation: {x: 0.044101033, y: 0.019268619, z: 0.06358388, w: 0.9968154}
+      scale: {x: 1.0000002, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger31
+      position: {x: -0.04645481, y: -0.000000095367426, z: 0}
+      rotation: {x: 0.0074571166, y: -0.004185963, z: 0.031445846, w: 0.9994689}
+      scale: {x: 0.99999994, y: 0.99999994, z: 1.0000002}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger32
+      position: {x: -0.031050108, y: 0, z: 0.000000011920928}
+      rotation: {x: 0.00013988091, y: 0.0030678893, z: -0.041332263, w: 0.9991408}
+      scale: {x: 0.9999999, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: surv_RRingeffector
+      position: {x: -0.028199958, y: 0, z: 0}
+      rotation: {x: -1.2685717e-11, y: 0.0000000019771784, z: 0.0000000034264291,
+        w: 1}
+      scale: {x: 1, y: 1, z: 1}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger4
+      position: {x: -0.10476608, y: -0.000015449523, z: -0.031444665}
+      rotation: {x: 0.1685066, y: 0.004946574, z: 0.077448316, w: 0.98264074}
+      scale: {x: 1.0000001, y: 1, z: 1.0000001}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger41
+      position: {x: -0.042201087, y: -0.000000047683713, z: 0.000000023841856}
+      rotation: {x: -0.01514356, y: 0.008666736, z: 0.030463565, w: 0.9993836}
+      scale: {x: 1.0000001, y: 1.0000001, z: 0.99999994}
+      transformModified: 1
+    - name: surv_Bip01_R_Finger42
+      position: {x: -0.026038073, y: 0.00000007152557, z: 0}
+      rotation: {x: -0.000017087124, y: 0.01444149, z: 0.001183569, w: 0.99989504}
+      scale: {x: 1.0000001, y: 1, z: 0.99999994}
+      transformModified: 1
+    - name: surv_RPinkyeffector
+      position: {x: -0.027658176, y: 0, z: 0}
+      rotation: {x: 6.697589e-10, y: 4.02802e-10, z: -1.2735479e-11, w: 1}
+      scale: {x: 1.0000001, y: 1, z: 1}
+      transformModified: 1
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 3
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
