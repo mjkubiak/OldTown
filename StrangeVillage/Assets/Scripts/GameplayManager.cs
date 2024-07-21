@@ -11,7 +11,7 @@ public class GameplayManager : MonoBehaviour
 	[SerializeField] private UnityEvent _positiveIncidentHappened;
 	[SerializeField] private UnityEvent _negativeIncidentHappened;
 
-	private int _daysCounter = 0;
+	public int DaysCounter { get; set; } = 0;
 
 	public void IncrementDay()
 	{
@@ -20,9 +20,9 @@ public class GameplayManager : MonoBehaviour
 			return;
 		}
 		
-		_daysCounter++;
+		DaysCounter++;
 
-		if (_daysCounter >= _daysCount)
+		if (DaysCounter >= _daysCount)
 		{
 			IsIncidentPositive = _positiveIncidentChecker.activeInHierarchy;
 			IsIncidentHappened = true;
