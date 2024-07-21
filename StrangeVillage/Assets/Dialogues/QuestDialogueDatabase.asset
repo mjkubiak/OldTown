@@ -1440,9 +1440,9 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: 'Hello Traveler. We need you to go and complete fixing the Electric
-          Generator. This system is crucial for giving us time to prepare and seek
-          shelter. It''s  located on the hill near the church. '
+        value: 'Hello Traveler. Since you have arrived on our remote island, you
+          must have found my announcement asking for help with a problem we have.
+          My Name is Alister Willington and i''m the mayor of Gloombay.  '
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1460,13 +1460,7 @@ MonoBehaviour:
       - originConversationID: 4
         originDialogueID: 1
         destinationConversationID: 4
-        destinationDialogueID: 4
-        isConnector: 0
-        priority: 2
-      - originConversationID: 4
-        originDialogueID: 1
-        destinationConversationID: 4
-        destinationDialogueID: 11
+        destinationDialogueID: 13
         isConnector: 0
         priority: 2
       conditionsString: CurrentQuestState("Genarator") == "unassigned"
@@ -1476,8 +1470,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 184
-        y: 134
+        x: 198.28574
+        y: 149.78947
         width: 160
         height: 30
     - id: 2
@@ -1644,8 +1638,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 59.85611
-        y: 230.94965
+        x: 27.525269
+        y: 384.33313
         width: 160
         height: 30
     - id: 6
@@ -1956,8 +1950,8 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 263.85614
-        y: 229.32373
+        x: 390.17194
+        y: 406.01547
         width: 160
         height: 30
     - id: 12
@@ -2018,13 +2012,137 @@ MonoBehaviour:
           m_Calls: []
       canvasRect:
         serializedVersion: 2
-        x: 193.35255
-        y: 346.23022
+        x: 200.11946
+        y: 532.6964
+        width: 160
+        height: 30
+    - id: 13
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: What can I do to help?
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 13
+        destinationConversationID: 4
+        destinationDialogueID: 14
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 195.27823
+        y: 223.09775
+        width: 160
+        height: 30
+    - id: 14
+      fields:
+      - title: Title
+        value: 
+        type: 0
+        typeString: 
+      - title: Description
+        value: 
+        type: 0
+        typeString: 
+      - title: Actor
+        value: 2
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Conversant
+        value: 1
+        type: 5
+        typeString: CustomFieldType_Actor
+      - title: Menu Text
+        value: 
+        type: 0
+        typeString: 
+      - title: Dialogue Text
+        value: 'Gloombay is occasionally visited by a mysterious fog that appears
+          at night, causing supernatural events. After a recent incident, our residents
+          have become very ill and it is difficult for them to carry out necessary
+          repairs. Therefore, we need your help. Of course, we will reward you handsomely.
+
+          We
+          need you to go and complete fixing the Electric Generator. This system
+          is crucial for giving us time to prepare and seek shelter. It''s  located
+          on the hill near the church. '
+        type: 0
+        typeString: 
+      - title: Sequence
+        value: 
+        type: 0
+        typeString: 
+      conversationID: 4
+      isRoot: 0
+      isGroup: 0
+      nodeColor: 
+      delaySimStatus: 0
+      falseConditionAction: Block
+      conditionPriority: 2
+      outgoingLinks:
+      - originConversationID: 4
+        originDialogueID: 14
+        destinationConversationID: 4
+        destinationDialogueID: 4
+        isConnector: 0
+        priority: 2
+      - originConversationID: 4
+        originDialogueID: 14
+        destinationConversationID: 4
+        destinationDialogueID: 11
+        isConnector: 0
+        priority: 2
+      conditionsString: 
+      userScript: 
+      onExecute:
+        m_PersistentCalls:
+          m_Calls: []
+      canvasRect:
+        serializedVersion: 2
+        x: 198.28577
+        y: 299.41354
         width: 160
         height: 30
     entryGroups: []
     canvasScrollPosition: {x: 0, y: 0}
-    canvasZoom: 1.3899996
+    canvasZoom: 1.3299997
   - id: 5
     fields:
     - title: Title
