@@ -804,8 +804,18 @@ PlayerSettings:
   webGLPowerPreference: 2
   scriptingDefineSymbols:
     Android: USE_NAVMESH;TMP_PRESENT
+    EmbeddedLinux: 
+    GameCoreXboxOne: 
+    Nintendo Switch: 
+    PS4: 
+    PS5: 
+    QNX: 
+    Stadia: 
     Standalone: FIRST_PERSON_CONTROLLER;THIRD_PERSON_CONTROLLER;ULTIMATE_CHARACTER_CONTROLLER_SHOOTER;FIRST_PERSON_SHOOTER;ULTIMATE_CHARACTER_CONTROLLER_MELEE;FIRST_PERSON_MELEE;ULTIMATE_CHARACTER_CONTROLLER_UNIVERSALRP;USE_NAVMESH;TMP_PRESENT;JUPITER
+    VisionOS: 
     WebGL: USE_NAVMESH;TMP_PRESENT
+    XboxOne: 
+    tvOS: 
   additionalCompilerArguments: {}
   platformArchitecture: {}
   scriptingBackend: {}
