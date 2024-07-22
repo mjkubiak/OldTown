@@ -1598,7 +1598,7 @@ MonoBehaviour:
         type: 0
         typeString: CustomFieldType_Text
       - title: Dialogue Text
-        value: Maybe thanks to your assist we will mange to survive...
+        value: We have only 3 days till the event will be more intense...
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1810,6 +1810,7 @@ MonoBehaviour:
         typeString: CustomFieldType_Text
       - title: Dialogue Text
         value: Thanks for helping! Now go to the Lighthose and speak to Johnson!
+          We have only 3 days!!!
         type: 0
         typeString: CustomFieldType_Text
       - title: Sequence
@@ -1838,7 +1839,7 @@ MonoBehaviour:
       canvasRect:
         serializedVersion: 2
         x: 704
-        y: 267.0291
+        y: 266.05823
         width: 160
         height: 30
     - id: 9
@@ -2181,7 +2182,7 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 267.94107, y: 0}
+    canvasScrollPosition: {x: 333.96054, y: 0}
     canvasZoom: 1.0300001
   - id: 5
     fields:
@@ -4308,7 +4309,7 @@ MonoBehaviour:
         type: 0
         typeString: 
       - title: Dialogue Text
-        value: Thanks for helping!
+        value: Thanks for helping! I think we mange set the system!!!
         type: 0
         typeString: 
       - title: Sequence
@@ -4439,8 +4440,8 @@ MonoBehaviour:
         width: 160
         height: 30
     entryGroups: []
-    canvasScrollPosition: {x: 59.338135, y: 9.633514}
-    canvasZoom: 1.0600001
+    canvasScrollPosition: {x: 0, y: 0}
+    canvasZoom: 0.9400002
   syncInfo:
     syncActors: 0
     syncItems: 0
